@@ -20,3 +20,15 @@
    ```bash
    git clone [https://github.com/您的帳號/mcr-arena.git](https://github.com/您的帳號/mcr-arena.git)
    cd mcr-arena
+   
+---------------------統需求
+Python 3.6+
+支援 OpenGL 的顯示卡 (Ursina 需求)
+-----------------------
+操作說明 (Controls)
+按鍵,功能
+"W, A, S, D",移動 (Move)
+滑鼠左鍵,射擊 (Shoot)
+R,重新裝填 (Reload)
+G,投擲手榴彈 (Throw Grenade)
+ESC,暫停/選單 (Pause/Menu)
