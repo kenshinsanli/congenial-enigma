@@ -49,3 +49,14 @@ R,重新裝填 (Reload)
 G,投擲手榴彈 (Throw Grenade)
 
 ESC,暫停/選單 (Pause/Menu)
+
+---
+
+### 如何更新到 GitHub？
+
+將上面的內容複製並儲存到您的 `README.md` 檔案後，請在終端機執行以下指令來更新 GitHub 頁面：
+
+```bash
+git add README.md
+git commit -m "更新 README 說明文件"
+git push
