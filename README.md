@@ -31,7 +31,11 @@ Python 3.6+
 
 按鍵,功能
 "W, A, S, D",移動 (Move)
+
 滑鼠左鍵,射擊 (Shoot)
+
 R,重新裝填 (Reload)
+
 G,投擲手榴彈 (Throw Grenade)
+
 ESC,暫停/選單 (Pause/Menu)
