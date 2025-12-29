@@ -25,6 +25,9 @@
 ```bash
 git clone [https://github.com/kenshinsanli/congenial-enigma.git](https://github.com/kenshinsanli/congenial-enigma.git)
 cd congenial-enigma
+
+
+
 ---------------------
 本遊戲需要安裝 ursina 引擎。請執行以下指令自動安裝所需套件：
 
