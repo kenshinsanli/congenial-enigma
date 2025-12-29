@@ -1,0 +1,11 @@
+# Python 快取
+__pycache__/
+*.pyc
+
+# 遊戲產生的本地檔案 (不要上傳)
+highscore.txt
+crash_log.txt
+
+# 虛擬環境 (如果有)
+venv/
+.env

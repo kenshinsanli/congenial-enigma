@@ -1,0 +1,22 @@
+# MCR Arena: 3D Wave Survival Shooter
+
+這是一個使用 Python 與 **Ursina Engine** 開發的 3D 第一人稱射擊生存遊戲。玩家必須在無盡的敵人波次中生存，收集物資並挑戰最高分。
+
+## 🎮 遊戲特色 (Features)
+* **波次系統**：難度隨波次增加，敵人數量會越來越多。
+* **多樣化敵人**：
+    * **基本敵人**：近距離追蹤攻擊。
+    * **狙擊手 (Sniper)**：具備遠程射擊能力與預警機制。
+* **戰鬥系統**：
+    * 真實的彈道與彈殼拋射效果。
+    * 手榴彈投擲與範圍爆炸傷害。
+* **物資補給 (Loot)**：擊殺敵人有機率掉落生命值、彈藥或手榴彈補給。
+* **UI 介面**：包含生命/彈藥顯示、受傷紅屏特效、小地圖 (Minimap) 系統。
+* **紀錄保存**：自動儲存最高分 (High Score)。
+
+## 🛠 安裝與執行 (Installation)
+
+1. **Clone 專案**
+   ```bash
+   git clone [https://github.com/您的帳號/mcr-arena.git](https://github.com/您的帳號/mcr-arena.git)
+   cd mcr-arena
