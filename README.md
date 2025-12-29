@@ -29,11 +29,13 @@
 
   python 666666.PY
 ---------------------
-系統需求
+系統需求 (Requirements)
 
-Python 3.6+
+OS: Windows, macOS, or Linux
 
-支援 OpenGL 的顯示卡 (Ursina 需求)
+Python: Python 3.6 或以上版本
+
+Graphics: 支援 OpenGL 的顯示卡 (Ursina 引擎需求)
 -----------------------
 操作說明 (Controls)
 
