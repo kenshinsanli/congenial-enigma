@@ -21,7 +21,8 @@
    git clone [https://github.com/您的帳號/mcr-arena.git](https://github.com/您的帳號/mcr-arena.git)
    cd mcr-arena
    
----------------------統需求
+---------------------
+系統需求
 Python 3.6+
 支援 OpenGL 的顯示卡 (Ursina 需求)
 -----------------------
